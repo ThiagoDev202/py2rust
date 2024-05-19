@@ -1,0 +1,12 @@
+[package]
+name = "transpiler-project"
+
+[dependencies]
+# Dependências do Rust
+serde = "1.0"
+serde_json = "1.0"
+tokio = { version = "1", features = ["full"] }
+pyo3 = { version = "0.15", features = ["extension-module"] }
+
+[build-dependencies]
+# Dependências de compilação

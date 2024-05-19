@@ -1,1 +1,0 @@
-# Amostras de código Python para testes
