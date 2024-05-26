@@ -23,6 +23,5 @@ def main(ast_root):
     print(rust_code)
 
 if __name__ == "__main__":
-    # Certifique-se de importar a AST correta de python_parser.py
     from python_parser import program_node as ast_root
     main(ast_root)
