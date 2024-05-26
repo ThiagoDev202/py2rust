@@ -1,0 +1,3 @@
+git remote add main https://github.com/ThiagoDev202/transpiler-project.git # Connect to the repo
+git commit -m "Nome da atualização a ser commitada" # commit
+git push origin main # Branch
