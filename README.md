@@ -4,7 +4,7 @@
 Create a system that reads Python code from a .txt file
 and produce a corresponding working Rust code .txt
 
-#### Components/Requirements:
+#### Components & Requirements:
  - Reading and Analysis: Grammar.
  - I/O (Input & Output): Reading .txt file
  - Generation and Construction: AST (Syntactic Analysis Tree)
@@ -14,7 +14,7 @@ and produce a corresponding working Rust code .txt
  - Documentation
 
 
-#### Technologies and tools
+#### Technologies & tools
  - pyparsing
  - Crossandra
  - Python_Standard_Library
