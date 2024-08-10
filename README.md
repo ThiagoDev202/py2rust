@@ -1,20 +1,20 @@
-# Py2Rust
+# Py2Rust Source-to-source compiler
 
-#### Objetivo:
-Criar um sistema que leia código Python de um arquivo .txt
-e produza um código Rust funcional correspondente .txt com saida.
+#### Goal:
+Create a system that reads Python code from a .txt file
+and produce a corresponding working Rust code .txt
 
-#### Componentes/Requisitos:
- - Leitura e Análise: Gramática.
- - E/S (Entrada & Saida): Leitura de arquivo .txt
- - Geração e Construção: AST (Árvore de Análise Sintática)
-  - Intermediário do código fonte PYTHON para a conversão em RUST equivalente
- - Conversão de Python para Rust
- - Testes unitários
- - Documentacao 
+#### Components/Requirements:
+ - Reading and Analysis: Grammar.
+ - I/O (Input & Output): Reading .txt file
+ - Generation and Construction: AST (Syntactic Analysis Tree)
+ - PYTHON source code intermediary for conversion to RUST equivalent
+ - Conversion from Python to Rust
+ - Unit tests
+ - Documentation
 
 
-#### Tecnologias & tools
+#### Technologies and tools
  - pyparsing
  - Crossandra
  - Python_Standard_Library
