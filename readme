@@ -1,4 +1,4 @@
-_~> FATOR ORGANIZAÇÃO E VISUALIZAÇÃO DA PROBLEMÁTICA <~*
+# Py2Rust
 
 Objetivo:
 Criar um sistema que leia código Python de um arquivo .txt
@@ -14,7 +14,7 @@ Componentes/Requisitos:
  - Documentacao 
 
 
--_- Tecnologias e tools -_-
+###### Tecnologias e tools
 *pyparsing
 *Crossandra
 *Python_Standard_Library
