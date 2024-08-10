@@ -1,10 +1,10 @@
 # Py2Rust
 
-###### Objetivo:
+#### Objetivo:
 Criar um sistema que leia código Python de um arquivo .txt
 e produza um código Rust funcional correspondente .txt com saida.
 
-###### Componentes/Requisitos:
+#### Componentes/Requisitos:
  - Leitura e Análise: Gramática.
  - E/S (Entrada & Saida): Leitura de arquivo .txt
  - Geração e Construção: AST (Árvore de Análise Sintática)
@@ -14,9 +14,9 @@ e produza um código Rust funcional correspondente .txt com saida.
  - Documentacao 
 
 
-###### Tecnologias e tools
-*pyparsing
-*Crossandra
-*Python_Standard_Library
-*Pytest
-*Cargo
+#### Tecnologias & tools
+ - pyparsing
+ - Crossandra
+ - Python_Standard_Library
+ - Pytest
+ - Cargo
